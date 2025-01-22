@@ -1,0 +1,416 @@
+[
+    {
+        "cod_cliente": "C66Z5",
+        "cod_pais": "MX",
+        "fec_creacion": "2019-08-04 00:12:22.000",
+        "des_nombre_cliente": "Robinett Nealey",
+        "des_email": "rnealey0@businessinsider.com",
+        "fec_modificacion": "2020-03-24 11:05:58.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C14I8",
+        "cod_pais": "MX",
+        "fec_creacion": "2018-07-13 00:01:52.000",
+        "des_nombre_cliente": "Sunshine Thornhill",
+        "des_email": "sthornhill1@wired.com",
+        "fec_modificacion": "2020-03-24 11:16:38.000",
+        "des_direccion": "EUCALIPTO 22 B-502"
+    },
+    {
+        "cod_cliente": "C48UJ",
+        "cod_pais": "CO",
+        "fec_creacion": "2019-04-17 21:36:30.000",
+        "des_nombre_cliente": "Bail O'Mahoney",
+        "des_email": "bomahoney2@digg.com",
+        "fec_modificacion": "2020-03-24 11:16:31.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C5FO3",
+        "cod_pais": "MX",
+        "fec_creacion": "2019-06-16 01:51:36.000",
+        "des_nombre_cliente": "Marie-jeanne Sherbrook",
+        "des_email": "msherbrook3@163.com",
+        "fec_modificacion": "2020-03-24 11:52:36.000",
+        "des_direccion": "611 / 307 307"
+    },
+    {
+        "cod_cliente": "C2J3E",
+        "cod_pais": "MX",
+        "fec_creacion": "2018-10-30 20:45:52.000",
+        "des_nombre_cliente": "Enrichetta Di Bartolommeo",
+        "des_email": "edi4@imgur.com",
+        "fec_modificacion": "2020-03-24 11:03:55.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C18SV",
+        "cod_pais": "PE",
+        "fec_creacion": "2018-07-23 15:29:25.000",
+        "des_nombre_cliente": "Alanson Heaney`",
+        "des_email": "aheaney5@networksolutions.com",
+        "fec_modificacion": "2020-03-24 11:59:35.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C6OD7",
+        "cod_pais": "MX",
+        "fec_creacion": "2019-08-31 16:50:10.000",
+        "des_nombre_cliente": "Bronnie Patria",
+        "des_email": "bpatria6@time.com",
+        "fec_modificacion": "2020-03-24 11:31:19.000",
+        "des_direccion": "Rincon de caldaro 500"
+    },
+    {
+        "cod_cliente": "C1TIH",
+        "cod_pais": "MX",
+        "fec_creacion": "2018-08-30 17:44:30.000",
+        "des_nombre_cliente": "Nahum Marmion",
+        "des_email": "nmarmion7@sfgate.com",
+        "fec_modificacion": "2020-03-24 12:04:40.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "CI63",
+        "cod_pais": "PE",
+        "fec_creacion": "2018-05-23 03:09:20.000",
+        "des_nombre_cliente": "Essy Willoughby",
+        "des_email": "ewilloughby8@studiopress.com",
+        "fec_modificacion": "2020-03-24 11:55:33.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C8E4Y",
+        "cod_pais": "MX",
+        "fec_creacion": "2019-12-28 07:34:41.000",
+        "des_nombre_cliente": "Vincent Swatland",
+        "des_email": "vswatland9@shinystat.com",
+        "fec_modificacion": "2020-03-24 11:19:32.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C8MEE",
+        "cod_pais": "PE",
+        "fec_creacion": "2020-01-20 06:58:37.000",
+        "des_nombre_cliente": "Mellie Dodridge",
+        "des_email": "mdodridgea@webs.com",
+        "fec_modificacion": "2020-03-24 11:46:25.000",
+        "des_direccion": "Pasaje. 2 de mayo 191 urb. San felipe 1er piso"
+    },
+    {
+        "cod_cliente": "C80VF",
+        "cod_pais": "PE",
+        "fec_creacion": "2019-12-03 22:55:01.000",
+        "des_nombre_cliente": "Cass Libero",
+        "des_email": "cliberob@elpais.com",
+        "fec_modificacion": "2020-03-24 10:49:02.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C2SWX",
+        "cod_pais": "PE",
+        "fec_creacion": "2018-11-26 14:34:26.000",
+        "des_nombre_cliente": "Culley Godsafe",
+        "des_email": "cgodsafec@weibo.com",
+        "fec_modificacion": "2020-03-24 11:56:37.000",
+        "des_direccion": "M C - L 21 PISO 2 PROVIV KAMA ITP - SAN MARTIN DE PORRES PISO 2 "
+    },
+    {
+        "cod_cliente": "C7YXN",
+        "cod_pais": "PE",
+        "fec_creacion": "2019-12-02 02:35:03.000",
+        "des_nombre_cliente": "Daisey Stainton - Skinn",
+        "des_email": "dstaintond@umn.edu",
+        "fec_modificacion": "2020-03-24 11:23:43.000",
+        "des_direccion": "Calle José Quiñones 337 802"
+    },
+    {
+        "cod_cliente": "C5NID",
+        "cod_pais": "PE",
+        "fec_creacion": "2019-06-28 00:19:39.000",
+        "des_nombre_cliente": "Cris Hebdon",
+        "des_email": "chebdone@illinois.edu",
+        "fec_modificacion": "2020-03-24 11:25:02.000",
+        "des_direccion": "Av Independencia 1724 "
+    },
+    {
+        "cod_cliente": "C8UHZ",
+        "cod_pais": "MX",
+        "fec_creacion": "2020-02-04 17:13:25.000",
+        "des_nombre_cliente": "Waverly Dearan",
+        "des_email": "wdearanf@nsw.gov.au",
+        "fec_modificacion": "2020-03-24 11:06:12.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C7XQ0",
+        "cod_pais": "PE",
+        "fec_creacion": "2019-11-28 02:29:15.000",
+        "des_nombre_cliente": "Celestia Nijs",
+        "des_email": "cnijsg@nationalgeographic.com",
+        "fec_modificacion": "2020-03-24 12:13:55.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C8TN3",
+        "cod_pais": "PE",
+        "fec_creacion": "2020-01-31 13:52:04.000",
+        "des_nombre_cliente": "Seumas Dael",
+        "des_email": "sdaelh@statcounter.com",
+        "fec_modificacion": "2020-03-24 11:49:40.000",
+        "des_direccion": "av elmert faucett 1111111"
+    },
+    {
+        "cod_cliente": "C7LKX",
+        "cod_pais": "MX",
+        "fec_creacion": "2019-11-05 22:29:13.000",
+        "des_nombre_cliente": "Greta Caffin",
+        "des_email": "gcaffinj@illinois.edu",
+        "fec_modificacion": "2020-03-24 12:05:18.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C4FAZ",
+        "cod_pais": "PE",
+        "fec_creacion": "2019-05-01 22:37:59.000",
+        "des_nombre_cliente": "Danie Longforth",
+        "des_email": "dlongforthk@census.gov",
+        "fec_modificacion": "2020-03-24 12:05:22.000",
+        "des_direccion": "Psj.Johnny Watson Mz. E Lt 9 La Victoria 00000"
+    },
+    {
+        "cod_cliente": "C6U5Q",
+        "cod_pais": "MX",
+        "fec_creacion": "2019-09-12 13:33:54.000",
+        "des_nombre_cliente": "Derril Grimsdike",
+        "des_email": "dgrimsdikel@globo.com",
+        "fec_modificacion": "2020-03-24 11:31:20.000",
+        "des_direccion": "Calle 3 123 "
+    },
+    {
+        "cod_cliente": "C8QBL",
+        "cod_pais": "PE",
+        "fec_creacion": "2020-01-26 19:12:04.000",
+        "des_nombre_cliente": "Cristina Coal",
+        "des_email": "ccoalm@unicef.org",
+        "fec_modificacion": "2020-03-24 11:31:52.000",
+        "des_direccion": "Av. Horario Urteaga 1558 D"
+    },
+    {
+        "cod_cliente": "C5L2O",
+        "cod_pais": "MX",
+        "fec_creacion": "2019-06-22 17:20:06.000",
+        "des_nombre_cliente": "Stesha Gallaher",
+        "des_email": "sgallahern@twitpic.com",
+        "fec_modificacion": "2020-03-24 10:56:57.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C3MOW",
+        "cod_pais": "PE",
+        "fec_creacion": "2019-02-18 18:43:08.000",
+        "des_nombre_cliente": "Boonie Onele",
+        "des_email": "boneleo@patch.com",
+        "fec_modificacion": "2020-03-24 11:10:24.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C48QJ",
+        "cod_pais": "MX",
+        "fec_creacion": "2019-04-17 17:58:24.000",
+        "des_nombre_cliente": "Nicola Maccaddie",
+        "des_email": "nmaccaddiep@mashable.com",
+        "fec_modificacion": "2020-03-24 11:51:24.000",
+        "des_direccion": "Dionisio García Fuentes 1719 B"
+    },
+    {
+        "cod_cliente": "C2684",
+        "cod_pais": "PE",
+        "fec_creacion": "2018-09-30 21:35:50.000",
+        "des_nombre_cliente": "Monty MacNeil",
+        "des_email": "mmacneilq@ed.gov",
+        "fec_modificacion": "2020-03-24 10:52:51.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C2QFK",
+        "cod_pais": "PE",
+        "fec_creacion": "2018-11-23 04:25:36.000",
+        "des_nombre_cliente": "Curtice Mattheus",
+        "des_email": "cmattheuss@1und1.de",
+        "fec_modificacion": "2020-03-24 11:39:41.000",
+        "des_direccion": "Av. José Olaya 227 vallecito alto San gabriel "
+    },
+    {
+        "cod_cliente": "C48EP",
+        "cod_pais": "PE",
+        "fec_creacion": "2019-04-17 03:47:34.000",
+        "des_nombre_cliente": "Saw Cherryman",
+        "des_email": "scherrymant@howstuffworks.com",
+        "fec_modificacion": "2020-03-24 11:52:05.000",
+        "des_direccion": "Jr. Enrique Barron 1043 Urb. Santa Beatriz 202"
+    },
+    {
+        "cod_cliente": "CRY1",
+        "cod_pais": "PE",
+        "fec_creacion": "2018-06-19 04:10:40.000",
+        "des_nombre_cliente": "Corny McQuaid",
+        "des_email": "cmcquaidu@blogger.com",
+        "fec_modificacion": "2020-03-24 12:00:13.000",
+        "des_direccion": "Calle jose quiñones 121 Dpto 04 "
+    },
+    {
+        "cod_cliente": "C6LZP",
+        "cod_pais": "MX",
+        "fec_creacion": "2019-08-28 04:37:56.000",
+        "des_nombre_cliente": "Mariel Polycote",
+        "des_email": "mpolycotev@networkadvertising.org",
+        "fec_modificacion": "2020-03-24 11:30:23.000",
+        "des_direccion": "Playa hornitos 32 6"
+    },
+    {
+        "cod_cliente": "CV1H",
+        "cod_pais": "PE",
+        "fec_creacion": "2018-06-25 23:34:54.000",
+        "des_nombre_cliente": "Christopher Kahn",
+        "des_email": "ckahnw@t.co",
+        "fec_modificacion": "2020-03-24 11:56:17.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C7LFY",
+        "cod_pais": "CL",
+        "fec_creacion": "2019-11-05 19:18:55.000",
+        "des_nombre_cliente": "Marylee Saturley",
+        "des_email": "msaturleyy@wikimedia.org",
+        "fec_modificacion": "2020-03-24 12:09:33.000",
+        "des_direccion": "JR INDEPENDENCIA 211 "
+    },
+    {
+        "cod_cliente": "CI8S",
+        "cod_pais": "CL",
+        "fec_creacion": "2018-05-23 14:30:53.000",
+        "des_nombre_cliente": "Fayth Allan",
+        "des_email": "fallanz@usda.gov",
+        "fec_modificacion": "2020-03-24 10:46:06.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C2QBW",
+        "cod_pais": "CL",
+        "fec_creacion": "2018-11-23 00:52:34.000",
+        "des_nombre_cliente": "Sarette Goolding",
+        "des_email": "sgoolding10@blog.com",
+        "fec_modificacion": "2020-03-24 12:05:26.000",
+        "des_direccion": "Leoncio Prado 1178 surquillo "
+    },
+    {
+        "cod_cliente": "C3WY1",
+        "cod_pais": "CL",
+        "fec_creacion": "2019-03-20 12:59:18.000",
+        "des_nombre_cliente": "Dom Dyshart",
+        "des_email": "ddyshart11@squidoo.com",
+        "fec_modificacion": "2020-03-24 10:53:01.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C65ZD",
+        "cod_pais": "CL",
+        "fec_creacion": "2019-08-02 03:19:49.000",
+        "des_nombre_cliente": "Gertie Kelsey",
+        "des_email": "gkelsey13@cargocollective.com",
+        "fec_modificacion": "2020-03-24 11:05:42.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C5Q09",
+        "cod_pais": "MX",
+        "fec_creacion": "2019-07-03 21:05:17.000",
+        "des_nombre_cliente": "Tilly Vidyapin",
+        "des_email": "tvidyapin14@skype.com",
+        "fec_modificacion": "2020-03-24 11:21:29.000",
+        "des_direccion": "Benito Juarez 501 -B "
+    },
+    {
+        "cod_cliente": "C3167",
+        "cod_pais": "PE",
+        "fec_creacion": "2018-12-11 02:58:29.000",
+        "des_nombre_cliente": "Jeffrey Birkinshaw",
+        "des_email": "jbirkinshaw15@statcounter.com",
+        "fec_modificacion": "2020-03-24 11:39:56.000",
+        "des_direccion": "Lirios 34no4 34No4"
+    },
+    {
+        "cod_cliente": "C53AX",
+        "cod_pais": "CO",
+        "fec_creacion": "2019-05-31 06:03:22.000",
+        "des_nombre_cliente": "Cosimo Ashington",
+        "des_email": "cashington16@nyu.edu",
+        "fec_modificacion": "2020-03-24 10:50:49.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C35NL",
+        "cod_pais": "CO",
+        "fec_creacion": "2018-12-26 03:44:51.000",
+        "des_nombre_cliente": "Jocelin Iacovides",
+        "des_email": "jiacovides17@paginegialle.it",
+        "fec_modificacion": "2020-03-24 11:59:23.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C1XZ7",
+        "cod_pais": "CO",
+        "fec_creacion": "2018-09-09 19:27:59.000",
+        "des_nombre_cliente": "Darcey Middlewick",
+        "des_email": "dmiddlewick18@ameblo.jp",
+        "fec_modificacion": "2020-03-24 11:15:50.000",
+        "des_direccion": "Av. Faustino Piaggio 184 "
+    },
+    {
+        "cod_cliente": "C6XPT",
+        "cod_pais": "CO",
+        "fec_creacion": "2019-09-18 11:24:16.000",
+        "des_nombre_cliente": "Jameson Cattellion",
+        "des_email": "jcattellion19@flickr.com",
+        "fec_modificacion": "2020-03-24 11:46:56.000",
+        "des_direccion": "Malecón de la Reserva "
+    },
+    {
+        "cod_cliente": "C453O",
+        "cod_pais": "CO",
+        "fec_creacion": "2019-04-11 04:14:46.000",
+        "des_nombre_cliente": "Edythe Ropkins",
+        "des_email": "eropkins1a@washingtonpost.com",
+        "fec_modificacion": "2020-03-24 10:53:06.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "CHD4",
+        "cod_pais": "PE",
+        "fec_creacion": "2018-05-20 15:08:25.000",
+        "des_nombre_cliente": "Karoly Pendrigh",
+        "des_email": "kpendrigh1b@sakura.ne.jp",
+        "fec_modificacion": "2020-03-24 12:18:47.000",
+        "des_direccion": "Mz H LOTE 23 URB LA PRADERA 2 PISO"
+    },
+    {
+        "cod_cliente": "CI7Z",
+        "cod_pais": "PE",
+        "fec_creacion": "2018-05-23 13:17:57.000",
+        "des_nombre_cliente": "Coralie Dukelow",
+        "des_email": "cdukelow1c@un.org",
+        "fec_modificacion": "2020-03-24 10:53:33.000",
+        "des_direccion": ""
+    },
+    {
+        "cod_cliente": "C88NR",
+        "cod_pais": "PE",
+        "fec_creacion": "2019-12-15 20:47:11.000",
+        "des_nombre_cliente": "Lem Petraitis",
+        "des_email": "lpetraitis1d@vk.com",
+        "fec_modificacion": "2020-03-24 11:10:47.000",
+        "des_direccion": ""
+    }
+]
