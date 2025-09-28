@@ -46,9 +46,8 @@ While the repo includes a broad range of projects (classification, tabular data,
 ---
 
 ## 🆕 Planned Project: Measurement Demo
-*(to align with Anton Paar’s AI-Science role)*  
 - **Goal**: process synthetic x-y measurement curves, detect peaks, extract features, classify patterns, and detect anomalies.  
-- **Methods**: Savitzky-Golay filtering, RandomForest classification, IsolationForest anomaly detection.  
+- **Methods**: Savitzky-Golay filtering, using some methods for classification that i've used before as RandomForest classification, IsolationForest anomaly detection.  
 - **Output**: reproducible pipeline with notebooks + scripts.  
 
 *(This project will be added soon in `/MeasurementDemo`.)*
